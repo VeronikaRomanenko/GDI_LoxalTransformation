@@ -1,0 +1,9 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_LoxalTransformation\GDI_LocalTransformation\GDI_LocalTransformation\bin\Debug\GDI_LocalTransformation.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_LoxalTransformation\GDI_LocalTransformation\GDI_LocalTransformation\bin\Debug\GDI_LocalTransformation.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_LoxalTransformation\GDI_LocalTransformation\GDI_LocalTransformation\bin\Debug\GDI_LocalTransformation.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_LoxalTransformation\GDI_LocalTransformation\GDI_LocalTransformation\obj\Debug\GDI_LocalTransformation.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_LoxalTransformation\GDI_LocalTransformation\GDI_LocalTransformation\obj\Debug\GDI_LocalTransformation.Form1.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_LoxalTransformation\GDI_LocalTransformation\GDI_LocalTransformation\obj\Debug\GDI_LocalTransformation.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_LoxalTransformation\GDI_LocalTransformation\GDI_LocalTransformation\obj\Debug\GDI_LocalTransformation.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_LoxalTransformation\GDI_LocalTransformation\GDI_LocalTransformation\obj\Debug\GDI_LocalTransformation.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_LoxalTransformation\GDI_LocalTransformation\GDI_LocalTransformation\obj\Debug\GDI_LocalTransformation.pdb
